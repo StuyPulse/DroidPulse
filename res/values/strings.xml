@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <resources>
 
-    <string name="hello">Hello World, DroidPulseActivity!</string>
     <string name="app_name">DroidPulse</string>
-
+	<string name="aboutbutton">About Us</string>
+	<string name="robotbutton">Our Past Robots</string>
+	<string name="robot_prompt">Choose A Robot</string>
+    
 </resources>
