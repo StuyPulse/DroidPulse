@@ -4,7 +4,20 @@
 
     <string name="app_name">DroidPulse</string>
 	<string name="aboutbutton">About Us</string>
-	<string name="robotbutton">Our Past Robots</string>
-	<string name="robot_prompt">Choose A Robot</string>
-    
+	<string name="robot_prompt">Our Past Robots</string>
+    <string-array name="robot_array">
+        <item>2012 - Joebot</item>
+        <item>2011 - Desdroid</item>
+        <item>2010 - Donovan</item>
+        <item>2009 - Michael 1</item>
+        <item>2008 - Desbot</item>
+        <item>2007 - Tom</item>
+        <item>2006 - Joshua</item>
+        <item>2005 - Yvette</item>
+        <item>2004 - Larry</item>
+        <item>2003 - Lola</item>
+        <item>2002 - Jack</item>
+        <item>2001 - Stuyle</item>
+    </string-array>
+    <string name="photobutton">Photos</string>
 </resources>
